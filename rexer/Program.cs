@@ -163,7 +163,7 @@ namespace rexer
                 + "-p <pattern> -> regex pattern to find\n"
                 + "-r <replace> -> replace string for renaming\n\n"
                 + "The flag you need to provide to actually rename the files is:\n\n"
-                + "-e <execute> -> not only shows but executes the renaming.\n\n"
+                + "-e <execute> -> not only shows but executes the renaming\n\n"
                 + "For testing a pattern you can use:\n\n"
                 + "-p <pattern> -> regex pattern to test\n\n"
                 + "You can see the regex groups which would be extracted this way.\n"
