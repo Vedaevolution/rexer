@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rexer", "rexer\rexer.csproj", "{772FF875-77C4-40D4-98DD-6A79311E874F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772FF875-77C4-40D4-98DD-6A79311E874F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772FF875-77C4-40D4-98DD-6A79311E874F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772FF875-77C4-40D4-98DD-6A79311E874F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772FF875-77C4-40D4-98DD-6A79311E874F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29292029-1D9A-4DBB-9D86-CFD4D8BE11B3}
+	EndGlobalSection
+EndGlobal
